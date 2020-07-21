@@ -1,4 +1,6 @@
 # Horse-Human
-find your dataset from the link- https://www.tensorflow.org/datasets/catalog/overview
+_TRAIN_URL= "https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip"
 
-Dataset : horses_or_humans - A large set of images of horses and humans Titles of Code Blocks to be shown in Notebook :
+_TEST_URL = "https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip"
+
+Data set is quite big in size. 
